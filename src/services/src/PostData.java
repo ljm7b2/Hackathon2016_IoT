@@ -43,12 +43,14 @@ public class PostData extends HttpServlet {
 		 System.out.println("Parameter Name - "+paramName+", Value - "+request.getParameter(paramName));
 		}
 		
-//		MongoClientURI uri = new MongoClientURI("mongodb://admin:admin@ds021010.mlab.com:21010/code_troopers");
-//		MongoClient mongoClient = new MongoClient(uri);
-//		MongoDatabase db = mongoClient.getDatabase("code_troopers");
-//		
+		MongoClientURI uri = new MongoClientURI("mongodb://admin:admin@ds021010.mlab.com:21010/code_troopers");
+		MongoClient mongoClient = new MongoClient(uri);
+		MongoDatabase db = mongoClient.getDatabase("code_troopers");
+		
 //		db.getCollection("iot_pi").insertOne(new Document()
-//				.append("ambient", request.getParameter("ambient"))
+//				.append("y", request.getParameter("y"))
+//				.append("x", request.getParameter("x"))
+//				.append("z", request.getParameter("z"))
 //		         .append("datetime", request.getParameter("datetime")));
 //		
 //		mongoClient.close();
