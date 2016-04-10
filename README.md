@@ -22,6 +22,7 @@
 * Node-Red
 * Apache Tomcat
 * Ionic
+* AWS - EC2
 
 ---
 
