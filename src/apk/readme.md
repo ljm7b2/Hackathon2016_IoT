@@ -1,3 +1,3 @@
 # Android application APK
 
-Note: The android application will have very limited functionality sense the service is not currently running. It responds to events driven by the TI Sensor Tag.
+**Note:** This client application responds to events driven by the TI Sensor Tag. The android application will have very limited functionality since the application service is not currently running.
