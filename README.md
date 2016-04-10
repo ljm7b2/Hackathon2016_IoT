@@ -1,3 +1,9 @@
-# Hackathon2016_IoT
+
 # UMKC Hackathon 2016 - IBM IoT
-# CodeTroopers
+### Team CodeTroopers
+---
+**Team Members:**
+* Ben Chrysler
+* Luke McDuff
+* Shweta Parihar
+* Sri Chaitanya Patluri
