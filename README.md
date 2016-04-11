@@ -28,5 +28,5 @@
 ---
 **Links**
 * *YouTube Demo* https://youtu.be/MTL54EZBxuM 
-* *Powerpoint* https://dl.dropboxusercontent.com/u/61270261/RESTful%20Pajamas.pptx
+* *Powerpoint* https://www.dropbox.com/s/pi5wwb0a1v5wnpa/RESTful%20Pajamas.pptx?dl=0
 * *Web Application* http://ec2-52-91-251-221.compute-1.amazonaws.com/CodeTroopers
