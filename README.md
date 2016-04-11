@@ -27,4 +27,6 @@
 
 ---
 **Links**
-* *Web* http://ec2-52-91-251-221.compute-1.amazonaws.com/CodeTroopers
+* *YouTube Demo* https://youtu.be/MTL54EZBxuM 
+* *Powerpoint* 
+* *Web Application* http://ec2-52-91-251-221.compute-1.amazonaws.com/CodeTroopers
